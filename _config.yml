@@ -85,10 +85,10 @@ author:
   bio              : "An academic chameleon working on mathematical and statistical models of gun crime in Chicago, IL."
   location         : "Knoxville, TN"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=uumCkFAAAAAJ&hl=en&authuser=1"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Shelby_Scott6"
   uri              :
   bitbucket        :
   codepen          :

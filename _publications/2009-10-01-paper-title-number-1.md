@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "An Agent-Based Model of Santa Cruz Island Foxes (Urocyon littoralis santacruzae) which Exhibits and Allee Effect"
 collection: publications
 permalink: /publication/Scott_2014
-excerpt: 'This paper is about the existence of an Allee Effect in the Santa Cruz Island fox, which contributed to population decline in the early 1990s.'
+excerpt: 'This project uses agent-based modeling to observe the existence of an Allee Effect in the Santa Cruz Island fox, and evaluates how this could have contributed to population decline in the early 1990s.'
 date: 2015-03-27
 venue: 'Letters in Biomathematics'
 paperurl: 'http://shelbymscott.github.io/files/Scott_2014.pdf'

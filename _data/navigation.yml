@@ -4,19 +4,19 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+  - title: "SMB 2019"
+    url: /SMB2019/
+
+  - title: "Service/Outreach"
+    url: /service/
+
+  - title: "Contact"
+    url: /contact/
+
+  - title: "Prospective Employers"
+    url: /employment/
+
   - title: "Guide"
     url: /markdown/

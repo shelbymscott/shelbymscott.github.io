@@ -193,6 +193,9 @@ collections:
   employment:
     output: true
     permalink: /:collection/:path/
+  extracurriculars:
+    output: true
+    permalink: /:collection/:path/
 
 
 
@@ -264,6 +267,15 @@ defaults:
   - scope:
       path: ""
       type: employment
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _extracurriculars
+  - scope:
+      path: ""
+      type: extracurriculars
     values:
       layout: single
       author_profile: true

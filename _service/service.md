@@ -4,9 +4,6 @@ title: "Service and Outreach"
 excerpt: "Service and Outreach Activities"
 author_profile: true
 ---
-
-Service and Outreach
-======
 While academia is definitely about publishing, collaborating, and furthering the field, that cannot be our only focus as academics. There is a major need for academics to engage in outreach and service, not only for the benefit of those we reach, but also for ourselves. Engaging in broader impacts gives more than grant money, it also re-instills the purpose of and passion in our work.  
 
 [More information on this idea here](http://shelbymscott.github.io/files/Pfeifer_2016.pdf)

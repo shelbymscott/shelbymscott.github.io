@@ -24,6 +24,7 @@ I serve as a mentor for both the Society of Mathematical Biology and for the UT 
 
 Other Service and Outreach
 ======
+* Reviewer: Foundations for Undergraduate Research in Mathematics: An Introduction to Undergraduate Research in Computational and Mathematical Biology: From Disease Dynamics to Big Data
 * Technical session organizer: 2017 Symposium on Biomathematics and Ecology: Education and Research
 * Tennessee Louis Stokes Alliance for Minority Participation (TLSAMP) Poster Presentation Judge
 * Darwin Day Volunteer

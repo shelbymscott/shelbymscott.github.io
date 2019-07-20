@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  20 JUL 2019 14:05
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  20 JUL 2019 14:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -213,31 +213,42 @@ File: figures/Kselection_15.png Graphic file (type png)
 <use figures/Kselection_15.png>
 Package pdftex.def Info: figures/Kselection_15.png used on input line 69.
 (pdftex.def)             Requested size: 383.43156pt x 391.46153pt.
- [2 <./figures/Kselection_15.png>] [3]
-(./PreliminaryResults.aux) ) 
+ [2 <./figures/Kselection_15.png>]
+<figures/ChicagoCA2025_2008.png, id=22, 957.5775pt x 716.6775pt>
+File: figures/ChicagoCA2025_2008.png Graphic file (type png)
+
+<use figures/ChicagoCA2025_2008.png>
+Package pdftex.def Info: figures/ChicagoCA2025_2008.png used on input line 76.
+(pdftex.def)             Requested size: 478.78758pt x 358.33788pt.
+
+Overfull \hbox (9.03256pt too wide) in paragraph at lines 76--77
+ [][] 
+ []
+
+[3 <./figures/ChicagoCA2025_2008.png>] (./PreliminaryResults.aux) ) 
 Here is how much of TeX's memory you used:
- 2115 strings out of 493488
- 28826 string characters out of 3141326
+ 2120 strings out of 493488
+ 28987 string characters out of 3141326
  89922 words of memory out of 3000000
- 5408 multiletter control sequences out of 15000+200000
+ 5412 multiletter control sequences out of 15000+200000
  8716 words of font info for 32 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,9n,23p,251b,233s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2012/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmex10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr17.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr7.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy7.pfb>
-Output written on PreliminaryResults.pdf (3 pages, 123663 bytes).
+ 37i,9n,23p,311b,233s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/
+texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/t
+exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/te
+xlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/tex
+live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texl
+ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
+e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/
+2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/20
+12/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2012/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2012/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on PreliminaryResults.pdf (3 pages, 246694 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
+ 59 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

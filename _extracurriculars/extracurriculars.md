@@ -9,15 +9,15 @@ It turns out that graduate students are not always confined to their offices, wr
 
 Running
 ======
-Shockingly I was still smiling after the Dirty 20 50K in Golden, CO, in June 2019.
+Shockingly I was still smiling after the Dirty 20 50K in Golden, CO, in June 2019. It was also the most beautiful course I've ever run and I can't wait to take it on again next year. <br>
 ![Dirty30Finish](https://shelbymscott.github.io/images/Dirty30Finish.jpg)
 
 Climbing
 ======
-If you take climbing pictures from the right angle, no one has to know you're only ten feet off the ground.
+If you take climbing pictures from the right angle, no one has to know you're only ten feet off the ground. It also helps to have friends who have nice cameras. <br>
 ![ClimbingIjams](https://shelbymscott.github.io/images/ClimbingIjams.jpg)
 
 Travel
 ======
-Women's World Cup 2019 in Lyon, France.
+Women's World Cup 2019 in Lyon, France. There are no words for what this experience was like. <br>
 ![WorldCupFinal](https://shelbymscott.github.io/images/WorldCupFinal.jpg)

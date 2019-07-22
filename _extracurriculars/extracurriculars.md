@@ -1,9 +1,9 @@
 ---
 permalink: /extracurriculars/
 title: "Extracurriculars"
-excerpt: "Shockingly still smiling after the Dirty 30 50K in Golden, CO June 2019. <br/><img src='/images/500x300.png'>"
-excerpt: "If you take climbing pictures from the right angle, no one has to know you're only ten feet off the ground. <br/><img src='/images/500x300.png'>"
-excerpt: "Women's World Cup 2019 in Lyon, France. <br/><img src='/images/500x300.png'>"
+excerpt: "Shockingly still smiling after the Dirty 30 50K in Golden, CO June 2019. <br/><img src='/images/Dirty30Finish.jpg'>"
+excerpt: "If you take climbing pictures from the right angle, no one has to know you're only ten feet off the ground. <br/><img src='/images/ClimbingIjams.jpg'>"
+excerpt: "Women's World Cup 2019 in Lyon, France. <br/><img src='/images/WorldCupFinal.jpg'>"
 type: extracurriculars
 author_profile: true
 ---

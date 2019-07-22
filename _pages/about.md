@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website. My name is Shelby Scott and I am currently a PhD Candidate in Ecology and Evolutionary Biology at the University of Tennessee, Knoxville, concurrently pursuing a MS in Statistics. By trade, I consider myself to be a biomathematician and biostatistician, but I have experience in a variety of different fields. Feel free to explore my [talks](https://shelbymscott.github.io/talks/), [publications](https://shelbymscott.github.io/publications/), and other tabs to learn more about my research.
+Welcome to my academic website! My name is Shelby Scott and I am currently a PhD Candidate in Ecology and Evolutionary Biology at the University of Tennessee, Knoxville, concurrently pursuing a MS in Statistics. By trade, I consider myself to be a biomathematician and biostatistician, but I have experience in a variety of different fields. Feel free to explore my [talks](https://shelbymscott.github.io/talks/), [publications](https://shelbymscott.github.io/publications/), and other tabs to learn more about my research.
 
 If you're here from my poster presentation at the Annual Meeting of the Society of Mathematical Biology (SMB), click [here](https://shelbymscott.github.io/SMB2019/).
 

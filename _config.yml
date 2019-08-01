@@ -184,6 +184,9 @@ collections:
   SMB2019:
     output: true
     permalink: /:collection/:path/
+  NDSEGConference:
+    output: true
+    permalink: /:collection/:path/
   service:
     output: true
     permalink: /:collection/:path/

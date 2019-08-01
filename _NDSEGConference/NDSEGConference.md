@@ -1,8 +1,8 @@
 ---
-permalink: /SMB2019/
-title: "Society of Mathematical Biology 2019"
+permalink: /NDSEGConference/
+title: "NDSEG Conference 2019"
 excerpt: "Poster Presentation Further Information"
-type: SMB2019
+type: NDSEGConference
 author_profile: true
 ---
 In order to cut down on the amount of reading visitors to my poster were forced to do, I chose to move a number of details about my work to my academic website, accessible by QR code. Below are sections about each part of my poster. Feel free to explore and, as always, [e-mail](mailto:sscott41@vols.utk.edu) me if you have further questions, or find me around the conference this week! Figures and tables from the preliminary results are available [here](https://shelbymscott.github.io/files/PreliminaryResults.pdf) and more figures for motivation and methods are available [here](https://shelbymscott.github.io/files/MotivationMethods.pdf).

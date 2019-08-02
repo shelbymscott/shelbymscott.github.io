@@ -58,7 +58,7 @@ While there are endless factors that can contribute to increased rates of crime,
 </p>
 
 <p>
-The subset procedure is used to determine which predictor variables are most useful for forecasting the response variable, and also often used to interpret a large number of regression coefficients, thus reducing some of the issues often faced when there are a large number of regression coefficients.  Overall, subset selection requires both an algorithm for the efficient searching of the solution space and a criterion or measure for the comparison of competing models to help guide the search. The algorithm takes combinations of predictors, runs a negative binomial regression over the data, and then diagnoses how well the regression fits the data. For our subset selection procedure, we use Akaike's Information Criteria with the equation:
+The subset procedure is used to determine which predictor variables are most useful for forecasting the response variable, and also often used to interpret a large number of regression coefficients, thus reducing some of the issues often faced with a large parameter space.  Overall, subset selection requires both an algorithm for the efficient searching of the solution space and a criterion or measure for the comparison of competing models to help guide the search. The algorithm takes combinations of predictors, runs a negative binomial regression over the data, and then diagnoses how well the regression fits the data. For our subset selection procedure, we use Akaike's Information Criteria with the equation:
 $$
 AIC(k) = 2k - 2 log L(\hat{\theta}_k),
 $$
@@ -103,7 +103,7 @@ where $S_k$ is the sum of the cluster distortions when the number of clusters is
 </p>
 
 <p>
-For the gun crime data in Chicago, Illinois, we wanted to inform the number of classes to be used in the cellular automata with data. Since our model is concerned with the spatial density of crime, we took the number of crimes in each community area from $2012 - 2017$, found the average over the time period, then divided this average by the community area to give the number of crimes per km$^2$ for each community area. We then ran twenty iterations of the $K$-selection algorithm (since stochasticity is integral to the process), and averaged the results.
+For the gun crime data in Chicago, Illinois, we wanted to inform the number of classes to be used in the cellular automata with data. Since our model is concerned with the spatial density of crime, we took the number of crimes in each community area from $2012 - 2017$, found the average over the time period, then divided this average by the community area to give the number of crimes per km$^2$ for each community area. We then ran twenty iterations of the $k$-selection algorithm (since stochasticity is integral to the process), and averaged the results.
 </p>
 
 </details>
@@ -117,14 +117,14 @@ Gun violence is often termed an epidemic in popular science and news articles. T
 </p>
 
 <p>
-Loeffler and Flaxman use a Bayesian spatio-temporal point process model in order to differentiate between gun crimes that clustered but non-diffusing gun violence and clustered gun violence resulting from diffusion. Their paper works exclusively with gun violence data collected from an Acoustic Gunshot Locator System (AGLS), while our dataset contains all of the spatio-temporally logged gun crimes that occurred in 2008 in Chicago, Illinois. The process used calculates the conditional intensity, $\lambda(x,y,t)$, of gun crime. This conditional intensity is composed of two parts: a background rate and a self-excitatory rate, which can be distinguished from one another. The equation used is:
+Loeffler and Flaxman use a Bayesian spatio-temporal point process model in order to differentiate between gun crimes that are clustered but non-diffusing and clustered gun crime resulting from diffusion. Their paper works exclusively with gun violence data collected from an Acoustic Gunshot Locator System (AGLS), while our dataset contains all of the spatio-temporally logged gun crimes that occurred in 2008 in Chicago, Illinois. The process used calculates the conditional intensity, $\lambda(x,y,t)$, of gun crime. This conditional intensity is composed of two parts: a background rate and a self-excitatory rate, which can be distinguished from one another. The equation used is:
 $$
 \lambda(x,y,t) = m_0 \mu(x,y,t)
 $$
 $$
 + \theta \sum_{i:t_i < t}^{}\omega \exp(-\omega(t-t_i))\frac{1}{2\pi \sigma^2} \exp(-((x-x_i)^2) + (y-y_i)^2/(2\sigma^2)),
 $$
-where $\mu(x,y,t)$ is the background intensity, estimated with an Epanechnikov kernel and weighted by $m_0$. Then, we have the self-excitatory kernel, which is Gaussian distributed. The parameters of this equation include $\theta$, which gives the number of shootings triggered by any particular shooting. Other important parameters include $\omega$ and $\sigma$, which are the temporal and spatial length scales, respectively. The algorithm implements Hamiltonian Monte Carlo sampling to explore the parameter space. We run four chains for 1000 iterations, with 500 draws used as burn-in, giving a total of 2000 draws.
+where the first term, $\mu(x,y,t)$, is the background intensity, estimated with an Epanechnikov kernel and weighted by $m_0$. The second term is the self-excitatory kernel, which is Gaussian distributed. The parameters of this equation include $\theta$, which gives the number of shootings triggered by any particular shooting. Other important parameters include $\omega$ and $\sigma$, which are the temporal and spatial length scales, respectively. The algorithm implements Hamiltonian Monte Carlo sampling to explore the parameter space. We run four chains for 1000 iterations, with 500 draws used as burn-in, giving a total of 2000 draws.
 </p>
 
 </details>
@@ -135,7 +135,7 @@ where $\mu(x,y,t)$ is the background intensity, estimated with an Epanechnikov k
 
 <b>Covariates</b>
 <p>
-The subset selection algorithm presents a constant, poverty, unemployment, and dependents as the best predictors of gun crime in Chicago. The table in the results at the top of this page shows the results from the algorithm. This allows us to see which subsets of predictors also fit the model reasonably well and therefore may need to be further considered. We also show some diagnostics from the algorithm. The objective change at convergence ($\delta$) represents how well the algorithm performs and should be close to zero. Therefore, our procedure has done reasonably well at finding the appropriate subset. The log likelihood ($LogL$) does not have an interpretation on its own, but is used to calculate the AIC values and therefore part of the comparison with other models. The dispersion parameter ($\alpha$) represents how scattered the data are around the mean. A dispersion parameter of one would suggest a Poisson distribution. The resulting value of $alpha = 0.7095$ confirms the decision to model this data using a negative binomial distribution.
+The subset selection algorithm presents a constant, poverty, unemployment, and dependents as the best predictors of gun crime in Chicago. The table in the results (linked at the top of this page) shows the results from the algorithm. This allows us to see which subsets of predictors fit the model reasonably well and therefore may need to be further considered. We also show some diagnostics from the algorithm. The objective change at convergence ($\delta$) represents how well the algorithm performs and should be close to zero. Therefore, our procedure has done reasonably well at finding the appropriate subset. The log likelihood ($LogL$) does not have an interpretation on its own, but is used to calculate the AIC values and therefore part of the comparison with other models. The dispersion parameter ($\alpha$) represents how scattered the data are around the mean. A dispersion parameter of one would suggest a Poisson distribution. The resulting value of $\alpha = 0.7095$ confirms the decision to model this data using a negative binomial distribution.
 </p>
 
 <b>Determining Disease States</b>
@@ -145,7 +145,7 @@ After running 20 iterations of the $k$-selection algorithm, we found that the op
 
 <b>Infectiousness of Gun Crime</b>
 <p>
-Due to computational power, we have not yet run the algorithm over the entire dataset. The 2008 gun crimes have been subset by geographic area, time, and crime type. For a subset of the community areas (community areas 20-25), we find a $\theta$ value of $0.93$. Interpreted, this means that if $100$ crimes were observed at a given location, the next $93$ crimes observed within a $1.6$km radius and $12$ hours would have been triggered by the original $100$. We have also run this algorithm over other subsets and obtained different results, but in all cases there is spatio-temporal triggering of gun crimes.
+Due to computational power, we have not yet run the algorithm over the entire dataset. The 2008 gun crimes have been subset by geographic area, time, and crime type. In all cases, gun crime shows contagious behavior. For a subset of the community areas (community areas 20-25), we find a $\theta$ value of $0.93$. Interpreted, this means that if $100$ crimes were observed at a given location, the next $93$ crimes observed within a $1.6$km radius and $12$ hours would have been triggered by the original $100$. We have also run this algorithm over other subsets and obtained different results, but in all cases there is spatio-temporal triggering of gun crimes.
 </p>
 
 </details>
@@ -167,7 +167,7 @@ Preliminary cellular automata models have been created, which find that crime pe
 <summary>Future Work</summary>
 <br>
 <p>
-The next step in this model is to work with the Bayesian point process in order to determine the infectiousness of gun crime over a larger subset of the data or the entire dataset, if possible. There is also a need to confirm the model is not misspecified before the parameters are used within a cellular automata model. Once the model is appropriately parameterized, the full model, including GIS data, will be built and analyzed. This analysis will observe 1) how changes in the initial conditions affect the dynamics of crime spread and 2) how changes in the parameters affect the dynamics of crime spread.
+The next step in this model is to complete the Bayesian point process in order to determine the infectiousness of gun crime over a larger subset of the data or the entire dataset, if possible. There is also a need to confirm the model is not misspecified before the parameters are used within a cellular automata model. Once the model is appropriately parameterized, the full model, including GIS data, will be built and analyzed. This analysis will observe 1) how changes in the initial conditions affect the dynamics of crime spread and 2) how changes in the parameters affect the dynamics of crime spread.
 </p>
 
 <p>

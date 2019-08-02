@@ -25,6 +25,15 @@ The purpose of this model is to observe and predict the spread of gun crime in C
 </details>
 
 <details>
+<summary>Mathematical and Statistical Modeling</summary>
+<br>
+<p>
+The mainstream media often presents gun violence as an "epidemic" in the United States, and a variety of researchers have addressed the validity of this claim. If it is acceptable that gun violence is analogous to an epidemic, a suite of methods from epidemiology are then available to be used for this sociological "disease." Siettos and Russo present a summary of the mathematical and statistical methods used for observing infectious disease dynamics. Robert Smith? similarly outlines the types of mathematical models that can be used to assess problems in epidemiology and to arrive at the desired conclusions, without having to perform rigorous (or often impossible) field experiments. Generally, the purpose of mathematical models is to elucidate key features of the system and ignore what is not relevant to the specific question to be answered. Whereas mathematical models explore how a change in one aspect of the system can relate to changes in other parts of the system, statistical models imply that variations in the dependent variables depend on variations in the independent variables. Statistical models help to unearth what is happening, while mathematical models help to unearth why the event is occurring. Statistical models are often seen as a subset of mathematical models. Therefore, mathematical and statistical models should be used in concert with one another to make conclusions about questions of interest in the field.
+</p>
+
+</details>
+
+<details>
 <summary>Cellular Automata Models</summary>
 <br>
 <p>
@@ -174,6 +183,7 @@ Hamparsum Bozdogan. Intelligent Statistical Data Mining with Information Complex
 Hamparsum Bozdogan. Modern statistical theory and inference: An informational modeling process with matlab. In preparation, 2019. <br> <br>
 T. Rashad Byrdsong, Angela Devan, and Hide Yamatani. A ground-up model for gun violence reduction: A community-based public health approach. Journal of Evidence-Informed Social Work, 13(1):76–86, 2016. <br> <br>
 Andreas Deutsch and Sabine Dormann. Cellular Automaton Modeling of Biological Pattern Formation. Modeling and Simulation in Science, Engineering, and Technology. Birkhauser Basel, 1 edition, 2005. <br> <br>
+Ben Green, Thibaut Horel, and Andrew B Papachristos. Modeling contagion through social networks to explain and predict gunshot violence in chicago, 2006 to 2014. JAMA Internal Medicine, 2017. <br> <br>
 William Greene. Functional forms for the negative binomial model for count data. Economics Letters, 99(3):585-590, 2008. <br> <br>
 James W. Hardin. Generalized linear models and extensions, 2007. <br> <br>
 Arthur L. Kellermann, Frederick P. Rivara, Norman B. Rushforth, Joyce G. Banton, Donald T. Reay, Jerry T. Francisco, Ana B. Locci, Janice Prodzinski, Bela B. Hackman, and Grant Somes. Gun ownership as a risk factor for homicide in the home. New England Journal of Medicine, 329(15):1084-1091, 1993. <br> <br>
@@ -182,12 +192,20 @@ C Loeffler and S Flaxman. Is gun violence contagious? a spatiotemporal test. Jo
 Armin R. Mikler, Sangeeta Venkatachalam, and Kaja Abbas. Modeling infectious diseases using global stochastic cellular automata. Journal of Biological Systems, 13(04):421-439, 2005. <br> <br>
 D Pham, Stefan Dimov, and Cuong Nguyen. Selection of k in k -means clustering. Proceedings of The Institution of Mechanical Engineers Part C-journal of Mechanical Engineering Science - PROC INST MECH ENG C-J MECH E, 219:103-119, 01 2005. <br> <br>
 Joel L. Schiff. Cellular Automata: A Discrete View of the World. John Wiley & Sons, Inc, 2008. <br> <br>
+Constantinos Siettos and Lucia Russo. Mathematical modeling of infectious disease dynamics. Virulence, 4, 04 2013. <br> <br>
 R. Slimi, S. El Yacoubi, E. Dumonteil, and S. Gourbire. A cellular automata model for chagas disease. Applied Mathematical Modelling, 33(2):1072-1085, 2009. <br> <br>
 Gary Slutkin. Violence is a contagious disease: Contagion of violence: Workshop summary, 2013. <br> <br>
+Robert Smith? Modelling Disease Ecology with Mathematics, volume 2 of AIMS Series on Differential Equations & Dynamical Systems. American Institute of Mathematical Sciences, 1 edition, 2008. <br> <br>
 Stark DE and Shah NH. Funding and publication of research on gun violence and other leading causes of death. JAMA, 317(1):84–86, Jan 2017. <br> <br>
 Michael J. Tildesley and Matt J. Keeling. Is r0 a good predictor of final epidemic size: Foot-and-mouth disease in the uk. Journal of Theoretical Biology, 258(4):623 – 629, 2009. <br> <br>
+S Towers. The difference between mathematical and statistical modelling (plus some more basics of r), 08 2013. Online. <br> <br>
+S Towers, A Gomez-Lievano, M Khan, A Mubayi, and C Castillo-Chavez. Contagion in mass killings and school shootings. PLoS ONE, 10(7):e117 - 259, 2015. <br> <br>
 Dexter R. Voisin, Sadiq Patel, Jun Sung Hong, Lois Takahashi, and Noni Gaylord-Harden. Behavioral health correlates of exposure to community violence among african-american adolescents in chicago. Children and Youth Services Review, 69(Supplement C):97 – 105, 2016. <br> <br>
+Shari A. Wiley, Michael Z. Levy, and Charles C. Branas. The Impact of Violence Interruption on the Diffusion of Violence: A Mathematical Modeling Approach, pages 225{249. Springer International Publishing, Cham, 2016. <br> <br>
 Margaret A Winker, Kamran Abbasi, and Frederick P Rivara. Unsafe and understudied: the us gun problem. BMJ, 352, 2016. <br> <br>
-Jiaquan Xu, Sheery L. Murphy, Kenneth D. Kochanek, and Brigham A. Bastian. Deaths: Final data for 2013. Technical Report 64(2), National Vital Statistics System, Hyattsville, MD, February 2016.
+Jiaquan Xu, Sheery L. Murphy, Kenneth D. Kochanek, and Brigham A. Bastian. Deaths: Final data for 2013. Technical Report 64(2), National Vital Statistics System, Hyattsville, MD, February 2016. <br> <br>
+Jie Xu and Elizabeth Griffiths. Shooting on the street: Measuring the spatial influence of physical features on gun violence in a bounded street network. Journal of Quantitative Criminology, 33(2):237 - 253, Jun 2017.
+
+* Towers_2013
 
 </details>

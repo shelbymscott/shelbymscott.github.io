@@ -12,8 +12,6 @@ Welcome to my academic website! My name is Shelby Scott and I am currently a PhD
 
 If you're here from my poster presentation at the National Defense Science and Engineering (NDSEG) Annual Conference, click [here](https://shelbymscott.github.io/NDSEGConference/).
 
-If you're here from my poster presentation at the Annual Meeting of the Society of Mathematical Biology (SMB), click [here](https://shelbymscott.github.io/SMB2019/).
-
 Background
 ======
 I received my B.S. in Biomathematics from Rhodes College in Memphis, TN, in 2015 under the advising of Erin Bodine. My love of research began in the fall of 2012 when I enrolled in a mathematical modeling course focusing on disease dynamics using ordinary differential equations. From there, I was doomed in the best way possible. The next summer I participated in a Research Experience for Undergraduates (REU), which focused on the Santa Cruz Island fox and the potential reasons for its population decline in the 1990s. This resulted in a number of talks and two publications.

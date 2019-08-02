@@ -181,9 +181,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  SMB2019:
-    output: true
-    permalink: /:collection/:path/
+#  SMB2019:
+#    output: true
+#    permalink: /:collection/:path/
   NDSEGConference:
     output: true
     permalink: /:collection/:path/
@@ -223,14 +223,14 @@ defaults:
       layout: single
       author_profile: true
   # _SMB2019
-  - scope:
-      path: ""
-      type: SMB2019
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+#  - scope:
+#      path: ""
+#      type: SMB2019
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comments: true
   # _NDSEGConference
   - scope:
       path: ""

@@ -8,6 +8,10 @@ While academia is definitely about publishing, collaborating, and furthering the
 
 [More information on this idea here](http://shelbymscott.github.io/files/Pfeifer_2016.pdf)
 
+Society of Mathematical Biology: Education Subgroup
+======
+The Education Subgroup of SMB is comprised of members who desire to improve the teaching and mentoring of future scientists and world citizens, and in particular undergraduate and graduate mathematical and computational biology researchers. As new research frontiers emerge, our members seek to understand the best practices to help future researchers of biological questions be successful in this space. Content areas include, but are not limited to the teaching and learning of modeling, computing, data science, and quantitative reasoning. Challenge spaces include, but are not limited to designing learning experiences across disciplines, defining and assessing outcomes for new interdisciplinary and technological spaces, integrating data with mathematical modeling, educational outreach initiatives, and providing an inclusive and diverse environment for learning and for the profession. As the Communications Officer, I run the social media accounts, send information to subgroup members, and write reports for newsletters and other publications. See more on [Twitter](https://twitter.com/Edu4Smb) or on our [webpage](https://qubeshub.org/community/groups/smb).
+
 Engaging Knoxville in Ecology and Evolution
 ======
 Engaging Knoxville in Ecology and Evolution (EKEE) is an outreach group composed of graduate students from the Ecology and Evolutionary Biology department at the University of Tennessee. It was founded in 2015 by myself and a number of other graduate students with the primary mission of EKEE is to educate and inspire the Knoxville community to preserve and conserve nature. We do this through teaching lessons to students at all levels, hosting informational booths at the Farmer's Market, and raising money for graduate activities. I served as president from 2018-2019.  

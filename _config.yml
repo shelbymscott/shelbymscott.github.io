@@ -203,24 +203,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _SMB2019
-#  - scope:
-#      path: ""
-#      type: SMB2019
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comments: true
-  # _NDSEGConference
-#  - scope:
-#      path: ""
-#      type: NDSEGConference
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comments: true
   # _publications
   - scope:
       path: ""

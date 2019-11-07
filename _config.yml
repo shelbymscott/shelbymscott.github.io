@@ -230,7 +230,7 @@ defaults:
   # _BatesTalk
   - scope:
       path: ""
-      type: NDSEGConference
+      type: BatesTalk
     values:
       layout: single
       author_profile: true

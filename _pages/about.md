@@ -10,6 +10,8 @@ redirect_from:
 
 Welcome to my academic website! My name is Shelby Scott and I am currently a PhD Candidate in Ecology and Evolutionary Biology at the University of Tennessee, Knoxville, concurrently pursuing a MS in Statistics. By trade, I consider myself to be a biomathematician and biostatistician, but I have experience in a variety of different fields. Feel free to explore my [talks](https://shelbymscott.github.io/talks/), [publications](https://shelbymscott.github.io/publications/), and other tabs to learn more about my research.
 
+If you're here from my talk at Bates, feel free to explore my [Bates Talk](https://shelbymscott.github.io/BatesTalk) page! Also, in case my talk starts to bore you, play some [Seminar Bingo](http://phdcomics.com/documents/bingo.pdf).
+
 Background
 ======
 I received my B.S. in Biomathematics from Rhodes College in Memphis, TN, in 2015 under the advising of Erin Bodine. My love of research began in the fall of 2012 when I enrolled in a mathematical modeling course focusing on disease dynamics using ordinary differential equations. From there, I was doomed in the best way possible. The next summer I participated in a Research Experience for Undergraduates (REU), which focused on the Santa Cruz Island fox and the potential reasons for its population decline in the 1990s. This resulted in a number of talks and two publications.

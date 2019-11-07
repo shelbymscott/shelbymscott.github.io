@@ -1,11 +1,11 @@
 ---
-permalink: /NDSEGConference/
-title: "NDSEG Conference 2019"
-excerpt: "Poster Presentation Further Information"
+permalink: /BatesTalk/
+title: "Bates DCS Departmental Seminar"
+excerpt: "Further Information"
 type: NDSEGConference
 author_profile: true
 ---
-In order to cut down on the amount of reading visitors to my poster were forced to do, I chose to move a number of details about my work to my academic website, accessible by QR code. Below are sections about each part of my poster. Feel free to explore and, as always, [e-mail](mailto:sscott41@vols.utk.edu) me if you have further questions, or find me around the conference this week! Figures and tables from the preliminary results are available [here](https://shelbymscott.github.io/files/PreliminaryResults.pdf) and more figures for motivation and methods are available [here](https://shelbymscott.github.io/files/MotivationMethods.pdf).
+If you have further questions about the details regarding my work, hopefully some of them are answered here. Feel free to explore and, as always, [e-mail](mailto:sscott41@vols.utk.edu) me if you have further questions, or find me around the conference this week! Figures and tables from the preliminary results are available [here](https://shelbymscott.github.io/files/PreliminaryResults.pdf) and more figures for motivation and methods are available [here](https://shelbymscott.github.io/files/MotivationMethods.pdf).
 
 <details>
 <summary>Motivation</summary>

@@ -178,6 +178,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  BatesTalk:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -219,6 +222,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _BatesTalk
+  - scope:
+      path: ""
+      type: NDSEGConference
     values:
       layout: single
       author_profile: true

@@ -5,7 +5,7 @@ excerpt: "Further Information"
 type: _JMMTalk
 author_profile: true
 ---
-The slides from my talk will be available on the day of my talk.
+The slides from my talk are available [here](https://shelbymscott.github.io/files/Scott_JMM.pdf)
 
 If you have further questions about the details regarding my work, hopefully some of them are answered here. Feel free to explore and, as always, [e-mail](mailto:sscott41@vols.utk.edu) me if you have further questions, or find me around the conference this week! Figures and tables from the preliminary results are available [here](https://shelbymscott.github.io/files/PreliminaryResults.pdf) and more figures for motivation and methods are available [here](https://shelbymscott.github.io/files/MotivationMethods.pdf).
 

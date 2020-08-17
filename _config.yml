@@ -178,9 +178,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  SMB2020:
-    output: true
-    permalink: /:collection/:path/
+#  SMB2020:
+#    output: true
+#    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -228,14 +228,14 @@ defaults:
       share: true
       comments: true
   # _SMB2020
-  - scope:
-      path: ""
-      type: SMB2020
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #    path: ""
+  #    type: SMB2020
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _service
   - scope:
       path: ""

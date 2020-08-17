@@ -178,7 +178,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  JMMTalk:
+  SMB2020Talk:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _JMMTalk
+  # _SMB2020Talk
   - scope:
       path: ""
-      type: JMMTalk
+      type: SMB2020Talk
     values:
       layout: single
       author_profile: true

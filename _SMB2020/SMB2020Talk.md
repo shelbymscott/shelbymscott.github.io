@@ -2,7 +2,7 @@
 permalink: /SMB2020Talk/
 title: "Society for Mathematical Biology: Poster Presentation"
 excerpt: "Further Information"
-type: _SMB2020Talk
+type: _SMB2020
 author_profile: true
 ---
 The slides from my talk are available [here](https://shelbymscott.github.io/files/Scott_Shelby_OTHE.pdf)

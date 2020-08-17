@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _SMB2020Talk
+  # _SMB2020
   - scope:
       path: ""
-      type: SMB2020Talk
+      type: SMB2020
     values:
       layout: single
       author_profile: true

@@ -1,5 +1,5 @@
 ---
-permalink: /SMB2020Talk/
+permalink: /SMB2020/
 title: "Society for Mathematical Biology: Poster Presentation"
 excerpt: "Further Information"
 type: _SMB2020

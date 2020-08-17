@@ -178,7 +178,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  SMB2020Talk:
+  SMB2020:
     output: true
     permalink: /:collection/:path/
   talks:

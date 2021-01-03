@@ -5,8 +5,8 @@ excerpt: "Further Information for Prospective Employers"
 type: employment
 author_profile: true
 ---
-I am am incoming 5th Year PhD candidate working on my dissertation. I plan to graduate in August of 2020 and will be looking for a position around then. I am a mathematical modeler by training, but am also well versed in ecology, evolutionary biology, statistics, and programming. With my experience and skillset, I will be a valuable asset to any workplace. Please feel free to [contact me](mailto: sscott41@vols.utk.edu) if you have any questions or are interested in discussing employment.  
+I am a final stage PhD candidate working on completing my dissertation. I plan to graduate in May of 2021 and am therefore currently seeking employment. I am a mathematical modeler by training, but am also well versed in ecology, evolutionary biology, statistics, data analytics, and programming. With my experience and skillset, I will be a valuable asset to any workplace. Please feel free to [contact me](mailto: sscott41@vols.utk.edu) if you have any questions or are interested in discussing employment.  
 
-My CV is available [here](https://shelbymscott.github.io/files/ScottCV_19_12_09Update.pdf) (updated 9 December 2019).
+My CV is available [here](https://shelbymscott.github.io/files/ScottCV_21_01_03Update.pdf) (updated 3 January 2021).
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/shelby-scott).

@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my academic website! My name is Shelby Scott and I am currently a PhD Candidate in Ecology and Evolutionary Biology at the University of Tennessee, Knoxville, concurrently pursuing a MS in Statistics. By trade, I consider myself to be a biomathematician and biostatistician, but I have experience in a variety of different fields. Feel free to explore my [talks](https://shelbymscott.github.io/talks/), [publications](https://shelbymscott.github.io/publications/), and other tabs to learn more about my research.
 
-If you're here from my poster at eSMB2020, feel free to explore my [SMB 2020](https://shelbymscott.github.io/SMB2020) page! Also, in case any talks this week start to bore you, play some [Seminar Bingo](http://phdcomics.com/documents/bingo.pdf).
+If you're here from the 2021 AMS short course, welcome! If you are interested in some of my research, feel free to explore my poster at given at [SMB 2020](https://shelbymscott.github.io/SMB2020) page! Also, in case any talks during the short course need some spicing up, play some [Seminar Bingo](http://phdcomics.com/documents/bingo.pdf).
 
 Background
 ======

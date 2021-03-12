@@ -5,7 +5,7 @@ excerpt: "Further Information"
 type: _ExitSeminar
 author_profile: true
 ---
-A copy of my poster is available [here](https://shelbymscott.github.io/files/ExitSeminar.pdf).
+A copy of my slides is available [here](https://shelbymscott.github.io/files/ExitSeminar.pdf).
 Feel free to explore and, as always, [e-mail](mailto:sscott41@vols.utk.edu) me if you have further questions! Figures and tables from the preliminary results are available [here](https://shelbymscott.github.io/files/PreliminaryResults.pdf) and more figures for motivation and methods are available [here](https://shelbymscott.github.io/files/MotivationMethods.pdf).
 
 <details>

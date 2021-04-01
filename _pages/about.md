@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my academic website! My name is Shelby Scott and I am currently a PhD Candidate in Ecology and Evolutionary Biology at the University of Tennessee, Knoxville, concurrently pursuing a MS in Statistics. By trade, I consider myself to be a biomathematician and biostatistician, but I have experience in a variety of different fields. Feel free to explore my [talks](https://shelbymscott.github.io/talks/), [publications](https://shelbymscott.github.io/publications/), and other tabs to learn more about my research.
 
-If you're here from my departmental exit seminar, welcome! If you are interested in seeing the slides, find them on my [Exit Seminar](https://shelbymscott.github.io/ExitSeminar) page! Also, in case my talk needs some spicing up, play some [Seminar Bingo](http://phdcomics.com/documents/bingo.pdf).
+If you're here from my SMB Education talk, welcome! If you are interested in seeing the slides, find them on my [SMB 2021](https://shelbymscott.github.io/SMB2021) page! Also, in case my talk needs some spicing up, play some [Seminar Bingo](http://phdcomics.com/documents/bingo.pdf). If you're interested in the book mentioned in my talk, buy it [here](https://bookshop.org/books/i-hate-running-and-you-can-too-how-to-get-started-keep-going-and-make-sense-of-an-irrational-passion/9781579659882).
 
 Background
 ======

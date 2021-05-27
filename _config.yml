@@ -178,7 +178,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  SMB2021:
+  CafeScientifique:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _SMB2021
+  # _CafeScientifique
   - scope:
       path: ""
-      type: SMB2021
+      type: CafeScientifique
     values:
       layout: single
       author_profile: true

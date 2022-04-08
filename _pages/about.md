@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my academic website! My name is Shelby Scott and I am currently Health Data Scientist for Guidehouse. By trade, I consider myself to be a biomathematician and biostatistician, but I have experience in a variety of different fields. Feel free to explore my [talks](https://shelbymscott.github.io/talks/), [publications](https://shelbymscott.github.io/publications/), and other tabs to learn more about my research.
 
-If you're here from my UBC talk, welcome! If you are interested in seeing the slides, find them on my [Seminar Talks](https://shelbymscott.github.io/SeminarTalks) page! Also, in case my talk needs some spicing up, play some [Seminar Bingo](http://phdcomics.com/documents/bingo.pdf). If you're interested in the book mentioned in my talk, buy it [here](https://bookshop.org/books/i-hate-running-and-you-can-too-how-to-get-started-keep-going-and-make-sense-of-an-irrational-passion/9781579659882).
+If you're here from my VCU talk, welcome! If you are interested in seeing the slides, find them on my [Seminar Talks](https://shelbymscott.github.io/SeminarTalks) page! Also, in case my talk needs some spicing up, play some [Seminar Bingo](http://phdcomics.com/documents/bingo.pdf). If you're interested in the book mentioned in my talk, buy it [here](https://bookshop.org/books/i-hate-running-and-you-can-too-how-to-get-started-keep-going-and-make-sense-of-an-irrational-passion/9781579659882).
 
 Background
 ======

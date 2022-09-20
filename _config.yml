@@ -227,7 +227,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _SMB2021
+  # _SMB2022
+  - scope:
+      path: ""
+      type: SMB2022
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _SeminarTalks
   - scope:
       path: ""
       type: SeminarTalks

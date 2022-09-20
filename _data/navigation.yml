@@ -6,6 +6,9 @@ main:
   - title: "Seminar Talks"
     url: /SeminarTalks/
 
+  - title: "SMB 2022"
+    url: /SMB2022/
+
   - title: "Talks"
     url: /talks/
 

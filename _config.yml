@@ -181,6 +181,9 @@ collections:
   SeminarTalks:
     output: true
     permalink: /:collection/:path/
+  SMB2022:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/

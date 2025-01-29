@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shelby M Scott - Senior Consultant, Health Data Scientist"
+title: "Shelby M Scott - Managing Consultant, Health Data Scientist"
 excerpt: "About me"
 author_profile: true
 redirect_from:

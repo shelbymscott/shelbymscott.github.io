@@ -3,23 +3,23 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Seminar Talks"
-    url: /SeminarTalks/
-
-  - title: "SMB 2022"
-    url: /SMB2022/
-
   - title: "Talks"
     url: /talks/
+
+  - title: "Prospective Employers"
+    url: /employment/
 
   - title: "Service/Outreach"
     url: /service/
 
+  - title: "SMB 2022"
+    url: /SMB2022/
+
+  - title: "Seminar Talks"
+    url: /SeminarTalks/
+
   - title: "Contact"
     url: /contact/
-
-  - title: "Prospective Employers"
-    url: /employment/
 
   - title: "Extra-Curriculars"
     url: /extracurriculars/

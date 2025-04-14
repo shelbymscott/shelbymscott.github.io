@@ -7,6 +7,6 @@ author_profile: true
 ---
 I am a Managing Consultant at Guidehouse currently and am always open to hearing about new opportunities! I have been able to take my academic background and understanding of deep theory and apply methodologies broadly across my client portfolio as a consultant. I look forward to hearing more about your company and emerging roles. Please feel free to [contact me](mailto: shelby6493@gmail.com) if you have any questions or are interested in discussing employment.  
 
-My resume is available [here](ttps://shelbymscott.github.io/files/SScott_Resume.pdf) (updated 9 February 2025) and my academic CV is available [here](https://shelbymscott.github.io/files/ScottCV_21_1_03Update.pdf) (updated 3 January 2021).
+My resume is available [here](https://shelbymscott.github.io/files/SScott_Resume.pdf) (updated 9 February 2025) and my academic CV is available [here](https://shelbymscott.github.io/files/ScottCV_21_1_03Update.pdf) (updated 3 January 2021).
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/shelby-scott).
